@@ -1,0 +1,29 @@
+header, footer {
+    background-color: #00796b;
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
+
+nav {
+    padding: 20px 10px;
+}
+
+nav a {
+    background-color: #003730;
+    border: 1px solid white;
+    border-radius: 15px;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+}
+
+.foot {
+    font-size: 12px;
+}
+
+img {
+    width: 500px;
+    height: 350px;
+}
